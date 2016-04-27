@@ -1,7 +1,5 @@
 bodyParser = require('body-parser')
 Router = require('express').Router
-fs = require('fs')
-path = require('path')
 
 router = new Router()
 
