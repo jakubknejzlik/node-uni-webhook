@@ -1,6 +1,6 @@
 {
   "name": "uni-webhook",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Unified git repository webhooks POST request parser",
   "main": "index.js",
   "scripts": {
