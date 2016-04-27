@@ -1,0 +1,30 @@
+{
+  "name": "uni-webhook",
+  "version": "0.0.1",
+  "description": "Unify repository webhooks by parsing POST requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webhook",
+    "unify",
+    "request",
+    "parsing",
+    "github",
+    "bitbucket"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "moment": "^2.10.6"
+  },
+  "devDependencies": {
+    "request": "^2.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakubknejzlik/node-uni-webhook.git"
+  }
+}
