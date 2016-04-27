@@ -1,5 +1,7 @@
 # uni-webhook
 
+Unified git repository webhooks POST request parser.
+
 ## Install
 
 `npm install uni-webhook --save`

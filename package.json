@@ -1,7 +1,7 @@
 {
   "name": "uni-webhook",
   "version": "0.0.2",
-  "description": "Unify repository webhooks by parsing POST requests",
+  "description": "Unified git repository webhooks POST request parser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
